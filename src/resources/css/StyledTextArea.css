@@ -1,0 +1,31 @@
+.descricaoPergunta {
+    -fx-background-insets: 0;
+    -fx-background-color: transparent, white, transparent, white;
+    -fx-background-radius: 0, 0, 0, 0;
+
+    -fx-focus-color: -fx-control-inner-background;
+    -fx-faint-focus-color: -fx-control-inner-background;
+    -fx-text-box-border: -fx-control-inner-background;
+    -fx-border-width: -1;
+}
+
+.descricaoPergunta .content {
+    -fx-background-color: transparent, white, transparent, white;
+}
+
+.descricaoPergunta:focused .content {
+    -fx-background-color: transparent, white, transparent, white;
+}
+
+.descricaoPergunta:focused {
+    -fx-highlight-fill: #7ecfff;
+
+    -fx-background-insets: 0;
+    -fx-background-color: transparent, white, transparent, white;
+    -fx-background-radius: 0, 0, 0, 0;
+
+    -fx-focus-color: -fx-control-inner-background;
+    -fx-faint-focus-color: -fx-control-inner-background;
+    -fx-text-box-border: -fx-control-inner-background;
+    -fx-border-width: -1;
+}

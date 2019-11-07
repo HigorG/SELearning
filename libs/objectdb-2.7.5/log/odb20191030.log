@@ -1,0 +1,437 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-10-30 20:32:26 #1 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\GameDataBase.odb' is opened by 23996@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:32:26 #2 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:32:27 #3 type] 
+Type model.PerguntaMultiplaEscolha is not enhanced.
+
+[2019-10-30 20:32:27 #4 type] 
+Type model.PerguntaVerdadeiroFalso is not enhanced.
+
+[2019-10-30 20:32:27 #5 type] 
+Type model.PerguntaRelacionar is not enhanced.
+
+[2019-10-30 20:32:27 #6 type] 
+Type model.ConfiguracoesJogo is not enhanced.
+
+[2019-10-30 20:32:28 #7 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is opened by 23996@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:32:28 #8 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:32:28 #9 type] 
+Type model.Item is not enhanced.
+
+[2019-10-30 20:32:28 #10 type] 
+Type model.Musica is not enhanced.
+
+[2019-10-30 20:32:28 #11 type] 
+Type model.AlunoPossuiItem is not enhanced.
+
+[2019-10-30 20:32:28 #12 type] 
+Type model.AlunoPossuiMusica is not enhanced.
+
+[2019-10-30 20:32:28 #13 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' is opened by 23996@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:32:28 #14 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:32:28 #15 type] 
+Type model.Aluno is not enhanced.
+
+[2019-10-30 20:32:28 #16 type] 
+Type model.Professor is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-10-30 20:33:22 #1 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\GameDataBase.odb' is opened by 24596@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:33:22 #2 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:33:23 #3 type] 
+Type model.PerguntaMultiplaEscolha is not enhanced.
+
+[2019-10-30 20:33:23 #4 type] 
+Type model.PerguntaVerdadeiroFalso is not enhanced.
+
+[2019-10-30 20:33:23 #5 type] 
+Type model.PerguntaRelacionar is not enhanced.
+
+[2019-10-30 20:33:23 #6 type] 
+Type model.ConfiguracoesJogo is not enhanced.
+
+[2019-10-30 20:33:23 #7 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is opened by 24596@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:33:23 #8 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:33:23 #9 type] 
+Type model.Item is not enhanced.
+
+[2019-10-30 20:33:23 #10 type] 
+Type model.Musica is not enhanced.
+
+[2019-10-30 20:33:23 #11 type] 
+Type model.AlunoPossuiItem is not enhanced.
+
+[2019-10-30 20:33:23 #12 type] 
+Type model.AlunoPossuiMusica is not enhanced.
+
+[2019-10-30 20:33:23 #13 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' is opened by 24596@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:33:23 #14 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:33:23 #15 type] 
+Type model.Aluno is not enhanced.
+
+[2019-10-30 20:33:23 #16 type] 
+Type model.Professor is not enhanced.
+
+[2019-10-30 20:34:00 #17 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' has been recovered (tr. 116-119)
+
+[2019-10-30 20:34:00 #18 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' is opened by 24596@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:34:00 #19 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:34:00 #20 type] 
+Type model.Partida is not enhanced.
+
+[2019-10-30 20:34:00 #21 type] 
+Type model.Pergunta is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-10-30 20:41:21 #1 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\GameDataBase.odb' is opened by 25844@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:41:21 #2 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:41:21 #3 type] 
+Type model.PerguntaMultiplaEscolha is not enhanced.
+
+[2019-10-30 20:41:21 #4 type] 
+Type model.PerguntaVerdadeiroFalso is not enhanced.
+
+[2019-10-30 20:41:21 #5 type] 
+Type model.PerguntaRelacionar is not enhanced.
+
+[2019-10-30 20:41:21 #6 type] 
+Type model.ConfiguracoesJogo is not enhanced.
+
+[2019-10-30 20:41:21 #7 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is opened by 25844@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:41:21 #8 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:41:21 #9 type] 
+Type model.Item is not enhanced.
+
+[2019-10-30 20:41:21 #10 type] 
+Type model.Musica is not enhanced.
+
+[2019-10-30 20:41:21 #11 type] 
+Type model.AlunoPossuiItem is not enhanced.
+
+[2019-10-30 20:41:21 #12 type] 
+Type model.AlunoPossuiMusica is not enhanced.
+
+[2019-10-30 20:41:22 #13 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' has been recovered (tr. 36-36)
+
+[2019-10-30 20:41:22 #14 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' is opened by 25844@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:41:22 #15 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:41:22 #16 type] 
+Type model.Aluno is not enhanced.
+
+[2019-10-30 20:41:22 #17 type] 
+Type model.Professor is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-10-30 20:41:39 #1 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\GameDataBase.odb' is opened by 27052@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:41:39 #2 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:41:39 #3 type] 
+Type model.PerguntaMultiplaEscolha is not enhanced.
+
+[2019-10-30 20:41:39 #4 type] 
+Type model.PerguntaVerdadeiroFalso is not enhanced.
+
+[2019-10-30 20:41:39 #5 type] 
+Type model.PerguntaRelacionar is not enhanced.
+
+[2019-10-30 20:41:39 #6 type] 
+Type model.ConfiguracoesJogo is not enhanced.
+
+[2019-10-30 20:41:40 #7 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is opened by 27052@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:41:40 #8 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:41:40 #9 type] 
+Type model.Item is not enhanced.
+
+[2019-10-30 20:41:40 #10 type] 
+Type model.Musica is not enhanced.
+
+[2019-10-30 20:41:40 #11 type] 
+Type model.AlunoPossuiItem is not enhanced.
+
+[2019-10-30 20:41:40 #12 type] 
+Type model.AlunoPossuiMusica is not enhanced.
+
+[2019-10-30 20:41:40 #13 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' is opened by 27052@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:41:40 #14 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:41:40 #15 type] 
+Type model.Aluno is not enhanced.
+
+[2019-10-30 20:41:40 #16 type] 
+Type model.Professor is not enhanced.
+
+[2019-10-30 20:41:53 #17 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' has been recovered (tr. 120-122)
+
+[2019-10-30 20:41:54 #18 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' is opened by 27052@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:41:54 #19 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:41:54 #20 type] 
+Type model.Partida is not enhanced.
+
+[2019-10-30 20:41:54 #21 type] 
+Type model.Pergunta is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-10-30 20:42:56 #1 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\GameDataBase.odb' is opened by 25708@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:42:56 #2 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:42:57 #3 type] 
+Type model.PerguntaMultiplaEscolha is not enhanced.
+
+[2019-10-30 20:42:57 #4 type] 
+Type model.PerguntaVerdadeiroFalso is not enhanced.
+
+[2019-10-30 20:42:57 #5 type] 
+Type model.PerguntaRelacionar is not enhanced.
+
+[2019-10-30 20:42:57 #6 type] 
+Type model.ConfiguracoesJogo is not enhanced.
+
+[2019-10-30 20:42:57 #7 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is opened by 25708@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:42:57 #8 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:42:57 #9 type] 
+Type model.Item is not enhanced.
+
+[2019-10-30 20:42:57 #10 type] 
+Type model.Musica is not enhanced.
+
+[2019-10-30 20:42:57 #11 type] 
+Type model.AlunoPossuiItem is not enhanced.
+
+[2019-10-30 20:42:57 #12 type] 
+Type model.AlunoPossuiMusica is not enhanced.
+
+[2019-10-30 20:42:57 #13 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' has been recovered (tr. 37-37)
+
+[2019-10-30 20:42:57 #14 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' is opened by 25708@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:42:57 #15 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:42:57 #16 type] 
+Type model.Aluno is not enhanced.
+
+[2019-10-30 20:42:57 #17 type] 
+Type model.Professor is not enhanced.
+
+[2019-10-30 20:43:07 #18 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' has been recovered (tr. 123-125)
+
+[2019-10-30 20:43:07 #19 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' is opened by 25708@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:43:07 #20 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:43:07 #21 type] 
+Type model.Partida is not enhanced.
+
+[2019-10-30 20:43:07 #22 type] 
+Type model.Pergunta is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-10-30 20:45:38 #1 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\GameDataBase.odb' is opened by 27984@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:45:38 #2 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:45:38 #3 type] 
+Type model.PerguntaMultiplaEscolha is not enhanced.
+
+[2019-10-30 20:45:38 #4 type] 
+Type model.PerguntaVerdadeiroFalso is not enhanced.
+
+[2019-10-30 20:45:38 #5 type] 
+Type model.PerguntaRelacionar is not enhanced.
+
+[2019-10-30 20:45:38 #6 type] 
+Type model.ConfiguracoesJogo is not enhanced.
+
+[2019-10-30 20:45:38 #7 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is opened by 27984@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:45:38 #8 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:45:38 #9 type] 
+Type model.Item is not enhanced.
+
+[2019-10-30 20:45:38 #10 type] 
+Type model.Musica is not enhanced.
+
+[2019-10-30 20:45:38 #11 type] 
+Type model.AlunoPossuiItem is not enhanced.
+
+[2019-10-30 20:45:38 #12 type] 
+Type model.AlunoPossuiMusica is not enhanced.
+
+[2019-10-30 20:45:38 #13 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' has been recovered (tr. 38-38)
+
+[2019-10-30 20:45:38 #14 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' is opened by 27984@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:45:38 #15 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:45:38 #16 type] 
+Type model.Aluno is not enhanced.
+
+[2019-10-30 20:45:38 #17 type] 
+Type model.Professor is not enhanced.
+
+[2019-10-30 20:46:05 #18 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' has been recovered (tr. 126-131)
+
+[2019-10-30 20:46:05 #19 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' is opened by 27984@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:46:05 #20 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:46:05 #21 type] 
+Type model.Partida is not enhanced.
+
+[2019-10-30 20:46:05 #22 type] 
+Type model.Pergunta is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-10-30 20:47:41 #1 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\GameDataBase.odb' is opened by 20404@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:47:41 #2 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:47:42 #3 type] 
+Type model.PerguntaMultiplaEscolha is not enhanced.
+
+[2019-10-30 20:47:42 #4 type] 
+Type model.PerguntaVerdadeiroFalso is not enhanced.
+
+[2019-10-30 20:47:42 #5 type] 
+Type model.PerguntaRelacionar is not enhanced.
+
+[2019-10-30 20:47:42 #6 type] 
+Type model.ConfiguracoesJogo is not enhanced.
+
+[2019-10-30 20:47:42 #7 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is opened by 20404@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:47:42 #8 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:47:42 #9 type] 
+Type model.Item is not enhanced.
+
+[2019-10-30 20:47:42 #10 type] 
+Type model.Musica is not enhanced.
+
+[2019-10-30 20:47:42 #11 type] 
+Type model.AlunoPossuiItem is not enhanced.
+
+[2019-10-30 20:47:42 #12 type] 
+Type model.AlunoPossuiMusica is not enhanced.
+
+[2019-10-30 20:47:42 #13 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' has been recovered (tr. 39-40)
+
+[2019-10-30 20:47:42 #14 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' is opened by 20404@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:47:42 #15 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:47:42 #16 type] 
+Type model.Aluno is not enhanced.
+
+[2019-10-30 20:47:42 #17 type] 
+Type model.Professor is not enhanced.
+
+[2019-10-30 20:48:10 #18 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' has been recovered (tr. 132-142)
+
+[2019-10-30 20:48:10 #19 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' is opened by 20404@LAPTOP-3D2HNVP7
+
+[2019-10-30 20:48:10 #20 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-10-30 20:48:10 #21 type] 
+Type model.Partida is not enhanced.
+
+[2019-10-30 20:48:10 #22 type] 
+Type model.Pergunta is not enhanced.
+

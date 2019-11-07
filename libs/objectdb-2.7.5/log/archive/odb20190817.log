@@ -1,0 +1,148 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-08-17 14:50:15 #1 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\GameDataBase.odb' is opened by 76912@LAPTOP-3D2HNVP7
+
+[2019-08-17 14:50:15 #2 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-08-17 14:50:15 #3 type] 
+Type model.PerguntaMultiplaEscolha is not enhanced.
+
+[2019-08-17 14:50:15 #4 type] 
+Type model.PerguntaVerdadeiroFalso is not enhanced.
+
+[2019-08-17 14:50:15 #5 type] 
+Type model.PerguntaRelacionar is not enhanced.
+
+[2019-08-17 14:50:15 #6 type] 
+Type model.ConfiguracoesJogo is not enhanced.
+
+[2019-08-17 14:50:15 #7 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is opened by 76912@LAPTOP-3D2HNVP7
+
+[2019-08-17 14:50:15 #8 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-08-17 14:50:15 #9 type] 
+Type model.Item is not enhanced.
+
+[2019-08-17 14:50:15 #10 type] 
+Type model.Musica is not enhanced.
+
+[2019-08-17 14:50:15 #11 type] 
+Type model.AlunoPossuiItem is not enhanced.
+
+[2019-08-17 14:50:15 #12 type] 
+Type model.AlunoPossuiMusica is not enhanced.
+
+[2019-08-17 14:50:15 #13 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' has been recovered (tr. 33-33)
+
+[2019-08-17 14:50:15 #14 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' is opened by 76912@LAPTOP-3D2HNVP7
+
+[2019-08-17 14:50:15 #15 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-08-17 14:50:15 #16 type] 
+Type model.Aluno is not enhanced.
+
+[2019-08-17 14:50:15 #17 type] 
+Type model.Professor is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-08-17 14:52:09 #1 explorer] 
+[ObjectDB 2.7.5] javax.persistence.PersistenceException
+Attempt to open a database file 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.a(MSG.java:64)
+	at com.objectdb.o.LFL.J(LFL.java:930)
+	at com.objectdb.o.LFL.x(LFL.java:887)
+	at com.objectdb.o.LFL.x(LFL.java:797)
+	at com.objectdb.o.DFL.<init>(DFL.java:241)
+	at com.objectdb.o.DMG.<init>(DMG.java:27)
+	at com.objectdb.o.MST.<init>(MST.java:127)
+	at com.objectdb.o.MST.ao(MST.java:109)
+	at com.objectdb.o.MSF.Yy(MSF.java:190)
+	at com.objectdb.o.OMF.r(OMF.java:783)
+	at com.objectdb.jpa.EMF.r(EMF.java:130)
+	at com.objectdb.o.OMF.w(OMF.java:694)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:149)
+	... 11 more
+
+[2019-08-17 14:53:27 #18 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' has been recovered (tr. 115-115)
+
+[2019-08-17 14:53:27 #19 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Estatisticas.odb' is opened by 76912@LAPTOP-3D2HNVP7
+
+[2019-08-17 14:53:27 #20 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-08-17 14:53:27 #21 type] 
+Type model.Partida is not enhanced.
+
+[2019-08-17 14:53:27 #22 type] 
+Type model.Pergunta is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-08-17 15:14:30 #1 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is opened by 84432@LAPTOP-3D2HNVP7
+
+[2019-08-17 15:14:30 #2 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-08-17 15:15:19 #3 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is closed by 84432@LAPTOP-3D2HNVP7
+
+[2019-08-17 15:15:20 #4 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Pessoa.odb' is opened by 84432@LAPTOP-3D2HNVP7
+
+[2019-08-17 15:15:20 #5 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-08-17 15:15:26 #6 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Pessoa.odb' is closed by 84432@LAPTOP-3D2HNVP7
+
+[2019-08-17 15:15:26 #7 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' has been recovered (tr. 34-35)
+
+[2019-08-17 15:15:26 #8 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' is opened by 84432@LAPTOP-3D2HNVP7
+
+[2019-08-17 15:15:26 #9 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-08-17 15:15:49 #10 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Usuarios.odb' is closed by 84432@LAPTOP-3D2HNVP7
+
+[2019-08-17 15:15:49 #11 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is opened by 84432@LAPTOP-3D2HNVP7
+
+[2019-08-17 15:15:49 #12 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-08-17 15:22:13 #13 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\Loja.odb' is closed by 84432@LAPTOP-3D2HNVP7
+
+[2019-08-17 15:22:13 #14 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\GameDataBase.odb' is opened by 84432@LAPTOP-3D2HNVP7
+
+[2019-08-17 15:22:13 #15 store] 
+Configuration path: C:\Users\user\EclipsePhotonWorkspace\Bibliotecas\objectdb-2.7.5\objectdb.conf
+
+[2019-08-17 15:40:54 #16 store] 
+Database 'C:\Users\user\EclipsePhotonWorkspace\QuizzInterfaceTests\S(E)LearningV2\objectdb\db\GameDataBase.odb' is closed by 84432@LAPTOP-3D2HNVP7
+

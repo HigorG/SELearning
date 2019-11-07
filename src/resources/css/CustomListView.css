@@ -1,0 +1,98 @@
+.roundListView {
+	-fx-background-radius: 30px;
+	-fx-border-radius: 30px;
+    -fx-background-insets: 0.0;
+    -fx-background-color: transparent;
+    -fx-background-fills: transparent;
+    -fx-border-color: grey;
+    -fx-padding: 2 0 0 0;
+    -jfx-rippler-fill: black;
+    -jfx-cell-horizontal-margin: 0.0;
+    -jfx-cell-vertical-margin: 5.0;
+    -jfx-vertical-gap: 10.0;
+    -jfx-expanded: false;
+}
+
+.roundListView .jfx-rippler {
+	-fx-background-radius: 30px;
+    -jfx-rippler-fill: rgba(0, 188, 212, 0.2);
+}
+
+.customListView {
+    -fx-background-insets: 0.0;
+    -fx-background-color: transparent;
+    -fx-background-fills: transparent;
+    -fx-border-color: grey;
+    -fx-padding: 2 0 0 0;
+    -jfx-rippler-fill: black;
+    -jfx-cell-horizontal-margin: 0.0;
+    -jfx-cell-vertical-margin: 5.0;
+    -jfx-vertical-gap: 10.0;
+    -jfx-expanded: false;
+}
+
+.jfx-list-cell {
+	-fx-background-radius: 30px;
+}
+
+.jfx-list-cell:hover {
+	-fx-background-color: rgba(0, 188, 212, 0.2);
+}
+
+.customListView .jfx-rippler {
+	-fx-background-radius: 30px;
+    -jfx-rippler-fill: rgba(0, 188, 212, 0.2);
+}
+
+/*
+.customListView:odd:selected > .jfx-rippler > StackPane, .jfx-list-cell:even:selected > .jfx-rippler > StackPane {
+    -fx-background-color: rgba(0, 0, 255, 0.6);
+    -fx-background-radius: 30px;
+}
+
+.customListView:even:selected > .jfx-rippler > StackPane, .jfx-list-cell:even:selected > .jfx-rippler > StackPane {
+    -fx-background-color: rgba(0, 0, 255, 0.6);
+    -fx-background-radius: 30px;
+}
+*/
+
+/* The main scrollbar **track** CSS class  */
+.customListView .scroll-bar:horizontal .track,
+.customListView .scroll-bar:vertical .track {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0em;
+    -fx-border-radius: 2em;
+}
+
+/* The increment and decrement button CSS class of scrollbar */
+.customListView .scroll-bar:horizontal .increment-button,
+.customListView .scroll-bar:horizontal .decrement-button {
+    -fx-background-color: transparent;
+    -fx-background-radius: 0em;
+    -fx-padding: 0 0 10 0;
+}
+
+/* The increment and decrement button CSS class of scrollbar */
+
+.customListView .scroll-bar:vertical .increment-button,
+.customListView .scroll-bar:vertical .decrement-button {
+    -fx-background-color: transparent;
+    -fx-background-radius: 0em;
+    -fx-padding: 0 10 0 0;
+
+}
+
+.customListView .scroll-bar .increment-arrow,
+.customListView .scroll-bar .decrement-arrow {
+    -fx-shape: " ";
+    -fx-padding: 0;
+}
+
+/* The main scrollbar **thumb** CSS class which we drag every time (movable) */
+.customListView .scroll-bar:horizontal .thumb,
+.customListView .scroll-bar:vertical .thumb {
+    -fx-background-color: derive(black, 90%);
+    -fx-background-insets: 2, 0, 0;
+    -fx-background-radius: 2em;
+}
