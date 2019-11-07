@@ -1,5 +1,5 @@
-# SELearning
-🎮 Jogo que utiliza os conceitos da gamificação para auxílio do ensino de Engenharia de Software
+# 🎮 SELearning 🎮
+Jogo que utiliza os conceitos da gamificação para auxílio do ensino de Engenharia de Software
 
 ## Bibliotecas utilizadas
 * JFoenix (Para UI)
