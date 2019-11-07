@@ -1,0 +1,7 @@
+.hiddenTabPane {
+    -fx-tab-max-height: 0 ;
+} 
+
+.hiddenTabPane .tab-header-area {
+    visibility: hidden ;
+}
