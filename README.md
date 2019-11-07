@@ -2,7 +2,7 @@
 Jogo que utiliza os conceitos da gamificação para auxílio do ensino de Engenharia de Software
 
 ## Bibliotecas utilizadas
-* JFoenix (Para UI)
+* JFoenix (UI)
 * ObjectDB (Banco local)
 * FontAwesome (Fonte)
 
